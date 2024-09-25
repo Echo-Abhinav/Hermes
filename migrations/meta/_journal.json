@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1726424464011,
+      "tag": "0000_lonely_pepper_potts",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1726430142342,
+      "tag": "0001_mature_excalibur",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1726463644007,
+      "tag": "0002_broken_stepford_cuckoos",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1726613901480,
+      "tag": "0003_calm_nightcrawler",
+      "breakpoints": true
+    }
+  ]
+}
